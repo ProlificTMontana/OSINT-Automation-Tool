@@ -24,7 +24,7 @@ The OSINT Automation Tool is a Python application that gathers open-source intel
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 
 1. Run the application:
 ```bash
@@ -34,10 +34,10 @@ python -m streamlit run main.py
 
 3. Enter a username, domain, or IP address to gather OSINT information.
 
-##API Keys
+## API Keys
 
 - Shodan API: You will need a valid API key to use the Shodan plugin. You can obtain one by signing up at Shodan.
 
-#Exporting Results
+# Exporting Results
 
 The tool allows you to export the gathered results in JSON or CSV format.
